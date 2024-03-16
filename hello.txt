@@ -1,1 +1,2 @@
 Hello from Wiredcolony
+Test modified Git function
